@@ -1,0 +1,199 @@
+#conta {
+  width: 100%;
+  height: auto;
+  padding: 80px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.conta_colunas {
+  width: 80.69%;
+  height: auto;
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+
+}
+.conta_groupImg {
+  width: 399px;
+  height: 645px;
+margin-right: 5vw;
+}
+img {
+  width: 399px;
+  height: 645px;
+}
+.conta_info {
+  width: 659.50px;
+  height: 541px;
+  padding-top: 40px;
+
+}
+.conta_grouptitle1 {
+  width: 659.50px;
+  height: 108px;
+  margin-bottom: 40px;
+}
+.conta_title1 {
+  width: auto;
+  height: auto;
+  font: 36px "open sans",sans-serif;
+  line-height: 1.5;
+  color: #222;
+}
+.conta_topicos {
+  display: flex;
+flex-direction: column;
+justify-content: space-between;
+  width: 659.50px;
+  height: 262px;
+  margin-bottom: 40px;
+}
+
+.conta_groupInfo1 {
+  display: flex;
+  width: 659.50px;
+  height: 54px;
+  margin-bottom: 56px;
+}
+.numero1{
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-right: 32px;
+  padding: 10px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 22px;
+  line-height: 26px;
+  color: #c00;
+}
+.info1{
+  width: 579.5px;
+  height: 54px;
+
+}
+.strong1 {
+  width: auto;
+  height: auto;
+  font: 18px "open sans",sans-serif;
+  color: #222;
+  font-weight: bolder;
+  margin-right: 5px;
+}
+.span1{
+  width: auto;
+  height: auto;
+  font: 18px "open sans",sans-serif;
+  color: #222;
+  font-weight: 400;
+}
+.conta_groupInfo2 {
+  display: flex;
+  width: 659.50px;
+  height: 54px;
+  margin-bottom: 56px;
+}
+.numero2{
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-right: 32px;
+  padding: 10px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 22px;
+  line-height: 26px;
+  color: #c00;
+}
+.info2{
+  width: 579.5px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+}
+
+.span2{
+  width: auto;
+  height: auto;
+  font: 18px "open sans",sans-serif;
+  color: #222;
+  font-weight: 400;
+}
+
+.conta_groupInfo3{
+  display: flex;
+  justify-content: baseline;
+  width: 659.50px;
+  height: 54px;
+  margin-bottom: 56px;
+}
+.numero3{
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-right: 32px;
+  padding: 10px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 22px;
+  line-height: 26px;
+  color: #c00;
+}
+.info3{
+  width: 579.5px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+}
+
+.span3{
+  width: auto;
+  height: auto;
+  font: 18px "open sans",sans-serif;
+  color: #222;
+  font-weight: 400;
+}
+.conta_groupinfo4 {
+  width: 659.5px;
+  height: 33px;
+  margin-bottom: 16px;
+}
+.conta_title4{
+  width: auto;
+  height: auto;
+  font: 22px "open sans",sans-serif;
+  line-height: 1.5;
+  color: #222;
+  font-weight: bolder;
+
+}
+.conta_groupinfo5 {
+width: 659.5px;
+height: 42px;
+}
+.conta_title5{
+  width: auto;
+  height: auto;
+  font: 14px "open sans",sans-serif;
+  line-height: 1.5;
+  color: #444;
+  margin-right: 5px;
+}
+a {
+  width: auto;
+  height: auto;
+  font: 14px "open sans",sans-serif;
+  line-height: 1.5;
+  color: #cc0000;
+  text-decoration: none;
+  cursor:pointer
+
+}

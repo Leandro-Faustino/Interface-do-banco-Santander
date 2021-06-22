@@ -1,0 +1,135 @@
+#beneficios {
+
+  width: 100%;
+  height: auto;
+  padding: 80px 0;
+  display: flex;
+  justify-content: center;
+}
+.beneficios_container {
+  width: 80.69%;
+  height: auto;
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+}
+.beneficios_row {
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.beneficios_coluna {
+  max-width: 100%;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 100%;
+
+}
+.beneficios_divTitle {
+  max-width: 1124px;
+  height: 54px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+.beneficios_pTitle {
+  width: auto;
+  height: 49px;
+  text-align: center;
+  color: #222222;
+  font: 36px "Open Sans", sans-serif;
+  pointer-events: inherit;
+  outline: 0;
+}
+.beneficios_itens_container {
+  max-width: 100%;
+  max-height: 680px;
+  display: flex;
+  justify-content: space-between;
+}
+.beneficios_item1 {
+  border-left: 2px solid #c00;
+  display: flex;
+  max-width:546px;
+    padding: 40px;
+  margin-right: 32px;
+  border-radius: 4px;
+  box-shadow: 0 0 16px rgb(34 34 34 / 24%);
+  background-color: #ffffff;
+}
+.item_icon {
+  width: 104px;
+  height: auto;
+  margin-right: 25px;
+}
+.beneficios_voltaImg {
+ width: 104px;
+  height: 104px;
+  padding: 24px;
+  border-radius: 100px;
+  background-color: #c00;
+}
+.beneficios_img {
+  width: 56px;
+  height: 56px;
+}
+.item_info {
+  max-width: 328px;
+  min-width: 104px;
+  max-height: 460px;
+}
+.item_contorno {
+  max-width:328px;
+  height: auto;
+  margin-bottom: 8px;
+}
+.item_info_1 {
+width: auto;
+  font: 22px "Open Sans", sans-serif;
+  pointer-events: inherit;
+  outline: 0;
+  color: #222222;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: left;
+}
+
+.item_contorno1 {
+  max-width: 328px;;
+  height: auto;
+}
+.item_info_1b {
+width: auto;
+  font: 22px "Open Sans", sans-serif;
+  pointer-events: inherit;
+  outline: 0;
+  color: #222222;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: left;
+}
+
+.beneficios_item2{
+  border-left: 2px solid #c00;
+  display: flex;
+  height: auto;
+  max-width: 546px;
+  padding: 40px ;
+  border-radius: 4px;
+  box-shadow: 0 0 16px rgb(34 34 34 / 24%);
+  background-color: #ffffff;
+}
+.item_info_2 {
+  width: auto;
+  font: 16px "Open Sans", sans-serif;
+  pointer-events: inherit;
+  outline: 0;
+  line-height: 1.5;
+  color: #444444;
+  font-weight: 400;
+  text-align: left;
+}
